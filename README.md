@@ -34,22 +34,27 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/7UfrXK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here from an Adminstrator perspective, we will configure roles, create departments, and teams. We'll also be created SLA's and mock tickets that need to be resolved. 
+Here from an Adminstrator perspective, we will configure roles, create departments, and teams. We'll also be creatING SLA's and mock tickets that need to be resolved as seen below :arrow_down:
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9O7mhca.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ng0m8n2.png" height="80%" width="80%" alt="Disk Sanitization Steps">
+<img src="https://i.imgur.com/KU0TalK.png" height="80%" width="80%" alt="Disk Sanitization Steps">
+<img src="https://i.imgur.com/lwnxMoe.png" height="80%" width="80%" alt="Disk Sanitization Steps">
+<img src="https://i.imgur.com/8aManyL.png" height="80%" width="80%" alt="Disk Sanitization Steps">
+<img src="https://i.imgur.com/5D0Ji9u.png" height="80%" width="80%" alt="Disk Sanitization Steps">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
